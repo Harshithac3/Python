@@ -84,7 +84,7 @@ Hi, I'm **Harshitha Reddy**
 - 06_sum_even_numbers.py
 - 07_sum_odd_numbers.py
 - 08_reverse_numbers.py
-- 09_multiples_of_3.py
+- 09_multiples.py
 
 ---
 More updates coming every day.
